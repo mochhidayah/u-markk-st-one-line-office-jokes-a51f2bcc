@@ -1,0 +1,5 @@
+# One-line office jokes: keep the repo clean, the joke stays in the code.
+node_modules/
+output/
+.DS_Store
+*.log
